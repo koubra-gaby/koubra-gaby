@@ -1,16 +1,47 @@
-## Hi there 👋
+# Salut, je suis Koubra ! 👋
 
-<!--
-**koubra-gaby/koubra-gaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Passionnée par l'IA, le NLP  et la data science.
 
-Here are some ideas to get you started:
+Je suis une étudiante en **Data Science** avec un vif intérêt pour le **traitement du langage naturel (NLP)** et la construction de modèles d'IA. Mon objectif est de transformer les données en solutions intelligentes qui peuvent aider à résoudre des problèmes concrets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Mes compétences ⚙️
+
+| Catégorie | Compétences |
+| :--- | :--- |
+| **Langages** | Python, C++ |
+| **Libraries & Frameworks** | PyTorch, Scikit-learn, Pandas, NumPy, FastAPI |
+| **Outils de développement** | Git, GitHub, Docker, Visual Studio Code |
+
+---
+
+### Mes projets et contributions 🚀
+
+Ici, je présente les projets qui me tiennent à cœur, qu'ils soient personnels ou réalisés en collaboration.
+
+#### **Projet sur la détection de fausses nouvelles** (Projet personnel)
+
+Un classificateur basé sur le Machine Learning pour identifier les articles de presse potentiellement mensongers. Ce projet m'a permis d'approfondir mes compétences en PNL et en nettoyage de données textuelles.
+
+* [Lien vers le dépôt du projet](https://github.com/koubra-gaby/Fake_news)
+
+---
+
+#### **Contribution au projet de génération de sujets de maths** (Collaboration)
+
+J'ai contribué au dépôt de l'équipe en développant et en intégrant un modèle capable de générer des sujets de mathématiques avec leurs correctifs.
+
+* [Lien vers le dépôt principal](https://github.com/[nom_du_propriétaire]/modeleBEF)
+* **Mon travail sur ce projet :** [Lien vers ma Pull Request ou ma branche]([URL_DE_TON_TRAVAIL_OU_TA_PR])
+
+---
+
+### Comment me contacter 💬
+
+Je suis toujours ouverte à de nouvelles collaborations et discussions sur la data science.
+
+* **LinkedIn :** [Ton profil LinkedIn]([LIEN_VERS_TON_PROFIL_LINKEDIN])
+* **E-mail :** [Ton adresse e-mail](mailto:ton.email@example.com)
+
+---
