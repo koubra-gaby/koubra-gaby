@@ -8,9 +8,9 @@ Je suis une étudiante en **Data Science** avec un vif intérêt pour le **trait
 
 ### Mes compétences ⚙️
 
-| Catégorie | Compétences |
+| Catégorie | Compétences |  
 | :--- | :--- |
-| **Langages** | Python, C++ |
+| **Langages** | Python, C |
 | **Libraries & Frameworks** | PyTorch, Scikit-learn, Pandas, NumPy, FastAPI |
 | **Outils de développement** | Git, GitHub, Docker, Visual Studio Code |
 
@@ -20,7 +20,7 @@ Je suis une étudiante en **Data Science** avec un vif intérêt pour le **trait
 
 Ici, je présente les projets qui me tiennent à cœur, qu'ils soient personnels ou réalisés en collaboration.
 
-#### **Projet sur la détection de fausses nouvelles** (Projet personnel)
+#### **Projet sur la détection de fausses nouvelles** (Collaboration)
 
 Un classificateur basé sur le Machine Learning pour identifier les articles de presse potentiellement mensongers. Ce projet m'a permis d'approfondir mes compétences en PNL et en nettoyage de données textuelles.
 
@@ -41,7 +41,7 @@ J'ai contribué au dépôt de l'équipe en développant et en intégrant un mod�
 
 Je suis toujours ouverte à de nouvelles collaborations et discussions sur la data science.
 
-* **LinkedIn :** [Ton profil LinkedIn]([LIEN_VERS_TON_PROFIL_LINKEDIN])
-* **E-mail :** [Ton adresse e-mail](mailto:ton.email@example.com)
+* **LinkedIn :** [Koubra Gaby]([www.linkedin.com/in/koubra-gaby-309a50250])
+* **E-mail :** [koubragaby1@gmail.com](mailto:ton.email@example.com)
 
 ---
