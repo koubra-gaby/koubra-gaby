@@ -11,20 +11,22 @@ Je suis une étudiante en **Data Science** avec un vif intérêt pour le **trait
 | Catégorie | Compétences |  
 | :--- | :--- |
 | **Langages** | Python, C |
-| **Libraries & Frameworks** | PyTorch, Scikit-learn, Pandas, NumPy, FastAPI |
+| **Libraries & Frameworks** | PyTorch,keras, Scikit-learn, Pandas, NumPy, FastAPI |
 | **Outils de développement** | Git, GitHub, Docker, Visual Studio Code |
 
 ---
 
 ### Mes projets et contributions 🚀
 
-Ici, je présente les projets qui me tiennent à cœur, qu'ils soient personnels ou réalisés en collaboration.
+Ici, je présente les projets qui me tiennent à cœur, auquels on a realisés en collaboration.
 
-#### **Projet sur la détection de fausses nouvelles** (Collaboration)
+#### **InfoWise** (Collaboration)
+une application web pour la détection des fausses nouvelles et des arnaques.in apprendre le fastAPI 
 
-Un classificateur basé sur le Machine Learning pour identifier les articles de presse potentiellement mensongers. Ce projet m'a permis d'approfondir mes compétences en PNL et en nettoyage de données textuelles.
+* **Mes contributions** : développement du backend, en me concentrant sur la détection des fake news.
+*  **Compétences acquises** : Machine Learning, NLP, FastAPI, et Docker.
 
-* [Lien vers le dépôt du projet](https://github.com/koubra-gaby/Fake_news)
+* [Fake_news]([https://github.com/koubra-gaby/Fake_news](https://github.com/Martial2023/Hackathon-UNESCO-MIL))
 
 ---
 
