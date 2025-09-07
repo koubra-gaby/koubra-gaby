@@ -27,16 +27,16 @@ une application web pour la détection des fausses nouvelles et des arnaques.in 
 *  **Compétences acquises** : Machine Learning, NLP, FastAPI, et Docker.
 
 * [Lien vers le dépôt principal](https://github.com/Martial2023/Hackathon-UNESCO-MIL)
-* **Mon travail sur ce projet :** [Lien vers ma Pull Request ou ma branche](https://github.com/Martial2023/Hackathon-UNESCO-MIL)
+* **Mon travail sur ce projet :** [fake_news](https://github.com/Martial2023/Hackathon-UNESCO-MIL)
 
 ---
 
-#### **Contribution au projet de génération de sujets de maths** (Collaboration)
+#### **Classification des livres à l'aide du machine Learning** (Collaboration)
 
-J'ai contribué au dépôt de l'équipe en développant et en intégrant un modèle capable de générer des sujets de mathématiques avec leurs correctifs.
+J'ai contribué au dépôt de l'équipe en développant et en intégrant un modèle capable de classifier les livres selon leur titre et leurs resumés
 
-* [Lien vers le dépôt principal](https://github.com/[nom_du_propriétaire]/modeleBEF)
-* **Mon travail sur ce projet :** [Lien vers ma Pull Request ou ma branche]([URL_DE_TON_TRAVAIL_OU_TA_PR])
+* [Lien vers le dépôt principal](https://github.com/Dodji1/nlp--text-clustering--websraping--snowflake)
+* **Mon travail sur ce projet :** [Lien vers ma branche](https://github.com/Dodji1/nlp--text-clustering--websraping--snowflake/tree/koubra_Gaby)
 
 ---
 
