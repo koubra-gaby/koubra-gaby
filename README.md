@@ -26,7 +26,8 @@ une application web pour la détection des fausses nouvelles et des arnaques.in 
 * **Mes contributions** : développement du backend, en me concentrant sur la détection des fake news.
 *  **Compétences acquises** : Machine Learning, NLP, FastAPI, et Docker.
 
-* [Fake_news]([https://github.com/koubra-gaby/Fake_news](https://github.com/Martial2023/Hackathon-UNESCO-MIL))
+* [Lien vers le dépôt principal](https://github.com/Martial2023/Hackathon-UNESCO-MIL)
+* **Mon travail sur ce projet :** [Lien vers ma Pull Request ou ma branche](https://github.com/Martial2023/Hackathon-UNESCO-MIL)
 
 ---
 
